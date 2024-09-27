@@ -3,9 +3,9 @@ import Workpleace from './Workpleace';
 
 const Counter = () => {
     return (
-        <div className="bg-[#dae0db] mt-8">
-            <div className="container mx-auto mt-10  ">
-                <div className=" mt-10 ">
+        <div className="bg-[#dae0db]">
+            <div className="container mx-auto   ">
+                <div className=" ">
                     <div className="flex justify-evenly w-[1500px] h-[180px] bg-white rounded-xl relative top-14  pt-5">
                         <div>
                             <img className="lg:ml-14" src="https://i.postimg.cc/ZRXDwp5Q/sms.png" alt="" />

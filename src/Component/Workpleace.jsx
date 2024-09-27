@@ -11,7 +11,7 @@ const Workpleace = () => {
             <p className="text-center mt-4">The barn house captivates with its blend of rustic charm and modern sophistication,<br /> featuring weathered wood, sleek metal accents.</p>
 
             <div className="flex justify-evenly container mx-auto">
-                <div className="w-[275px] h-[200px] bg-[#E7C1D3] rounded-xl p-5 mt-8">
+                <div className="w-[275px] h-[200px] bg-[#E7C1D3] rounded-xl p-5 mt-8 mb-28">
                     <img src="https://i.postimg.cc/2y13Dqhh/concept.png" alt="" />
                     <h1 className="text-xl font-bold mt-1">Concept</h1>
                     <p className="mt-2">The barn house captivates with its blend of rustic charm and modern.</p>
